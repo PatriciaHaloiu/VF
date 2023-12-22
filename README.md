@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  Marabou [![Marabou](https://github.com/NeuralNetworkVerification/Marabou/actions/workflows/ci.yml/badge.svg)](https://github.com/NeuralNetworkVerification/Marabou/actions/workflows/ci.yml) [![codecov.io](https://codecov.io/github/NeuralNetworkVerification/Marabou/coverage.svg?branch=master)](https://codecov.io/github/NeuralNetworkVerification/Marabou?branch=master)
 Deep neural networks are revolutionizing the way complex systems are designed.
 Instead of spending long hours hand-crafting complex software, many engineers
@@ -293,3 +294,6 @@ center](http://aisafety.stanford.edu).
 People
 -----------------------------------------------------------------------------
 Authors and contributors to the Marabou project can be found in AUTHORS and THANKS files, respectively.
+=======
+# VF
+>>>>>>> origin/main
